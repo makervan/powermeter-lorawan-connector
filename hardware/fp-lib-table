@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "antenna parts")(type KiCad)(uri /Users/sschols/personal/dev/electronics/kicad-libs/components)(options "")(descr ""))
+  (lib (name logos)(type KiCad)(uri ${KIPRJMOD}/logos.pretty)(options "")(descr ""))
+)

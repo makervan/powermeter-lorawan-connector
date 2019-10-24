@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name mySensors_radios)(type Legacy)(uri ${KIPRJMOD}/mySensors_radios.lib)(options "")(descr ""))
+  (lib (name MyArduProMiniTKB)(type Legacy)(uri ${KIPRJMOD}/MyArduProMiniTKB.lib)(options "")(descr ""))
+  (lib (name ProMini-LoRa-WAN-node-rescue)(type Legacy)(uri ${KIPRJMOD}/ProMini-LoRa-WAN-node-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name ProMini-Node-v1.0-50x50-rescue)(type Legacy)(uri ${KIPRJMOD}/ProMini-Node-v1.0-50x50-rescue.lib)(options "")(descr "")(disabled))
+  (lib (name powermeter-loranode-v1-rescue)(type Legacy)(uri ${KIPRJMOD}/powermeter-loranode-v1-rescue.lib)(options "")(descr ""))
+)
